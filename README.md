@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning web development and app development.
+- 🤔 I’m looking for help with flutter and javascript.
 
 <!--
 **rzaini/Rzaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
